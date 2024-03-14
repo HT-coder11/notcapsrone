@@ -1,0 +1,35 @@
+body{
+    background-color: aquamarine;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#CASE{
+    font-size: 30px;
+    color:orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.test_image_and_result{
+    background-color: gray;
+    height: 400px;
+    border-radius: 50px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    box-shadow: 15px 15px 15px black;
+}
+
+p{
+    width: "100px";
+    
+    padding:5px;
+    height: 30px;
+    bottom: 0;
+    
+    
+}
